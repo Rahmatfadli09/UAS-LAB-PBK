@@ -1,3 +1,7 @@
+#UAS LAB PBK
+NAMA : RAHMAT FADLI
+NPM : 213510594
+
 # labpbk
 
 ## Project setup
